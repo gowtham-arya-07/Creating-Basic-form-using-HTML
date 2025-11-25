@@ -1,0 +1,67 @@
+h1
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+form.a
+{
+    width: 100fr;
+    height: 100fr;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 50px;
+    border: 1px solid black;
+    line-height: 20px;
+    background-color: bisque;
+}
+form.b
+{
+    width: 100fr;
+    height: 100fr;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 50px;
+    border: 1px solid black;
+    line-height: 20px;
+    background-color: bisque;
+}
+form.c
+{
+    width: 100fr;
+    height: 100fr;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 50px;
+    border: 1px solid black;
+    line-height: 20px;
+    background-color: bisque;
+}
+form.d
+{
+    width: 100fr;
+    height: 100fr;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 50px;
+    border: 1px solid black;
+    line-height: 20px;
+    background-color: bisque;
+}
+sup
+{
+    color: red;
+}
+body
+{
+    background-color: cornflowerblue;
+}
+button
+{
+    margin-bottom: 50fr;
+    background-color: red;
+
+}
