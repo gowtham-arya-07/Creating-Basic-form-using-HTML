@@ -1,0 +1,40 @@
+Description of the HTML Code
+This HTML code creates a simple web form that asks the user to enter their personal details such as Name, USN, Branch, and Semester. The structure uses standard HTML elements like headings, labels, input fields, checkboxes, and a button.
+
+1. Document Structure
+The code begins with <!DOCTYPE html> which tells the browser that this is an HTML5 document.
+<html lang="en"> defines the webpage language as English.
+Inside the <head>, an external CSS file (g.css) is linked for styling.
+
+2. Page Title / Heading
+The <h1> tag displays the heading "Enter your details" at the top of the page.
+
+3. Form Inputs
+The page contains multiple <form> sections (although typically one form is recommended). Each form collects different user details.
+
+a. Name Field
+A label “Name *” is shown using <label>.
+<input type="text"> creates a text box where the user can type their name.
+The placeholder “Enter name” appears inside the text box.
+
+b. USN Field
+Similar to the name field, another text input is provided to enter the USN (University Seat Number).
+
+c. Branch Selection
+Several checkboxes allow the user to choose their branch.
+The options included are:
+CSE
+EC
+CSD
+Mechanical
+Aero-space
+Users may select more than one option because checkboxes are used.
+
+d. Semester Selection
+Another set of checkboxes lets the user choose the semester:
+3rd
+5th
+
+4.. Submit Button
+A button labeled "Submit!" is provided at the end.
+When clicked, it would normally submit the form (though in this case, n)
